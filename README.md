@@ -112,10 +112,11 @@ Optional flags for TTS and GUI mode.
 
 ---
 
----
 
 ## ✉️ Contact
 
 Have questions or need support?
+
 📧 eraianbu873@gmail.com
+
 🌐 https://eraianbu.pages.dev
