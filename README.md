@@ -95,11 +95,6 @@ Optional flags for TTS and GUI mode.
 
 ---
 
-## 📷 Demo
-
-*(Embed video link or screenshot here)*
-
----
 
 ## 👍 Future Enhancements
 
@@ -117,18 +112,10 @@ Optional flags for TTS and GUI mode.
 
 ---
 
-## 🛡️ License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-## 🙋 Contributing
-
-PRs welcome! Please open an issue to discuss feature requests or bugs.
-
 ---
 
 ## ✉️ Contact
 
-Developed by *Eraianbu*. Feel free to reach out via GitHub issues or email (your_email@domain.com).
+Have questions or need support?
+📧 eraianbu873@gmail.com
+🌐 https://eraianbu.pages.dev
